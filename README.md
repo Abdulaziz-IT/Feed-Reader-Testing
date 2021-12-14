@@ -8,4 +8,4 @@
 
 ## Can I run the site?
 
-Go ahead and click [HERE](https://abdulaziz-it.github.io/Feed-Reader-Testing-Project4-FEND/)!
+Go ahead and click [HERE](https://abdulaziz-it.github.io/Feed-Reader-Testing/)!
